@@ -1,4 +1,3 @@
-
 # Day 8 Reflection
 
 The most difficult concept in this course was understanding how databases handle multiple requests at the same time. I initially found it challenging to understand how two users could try to reserve the same seat and how a system could prevent both from purchasing it. I overcame this by learning about database transactions, primary keys, foreign keys and unique constraints. I now understand why checking availability in the frontend alone is not enough and why the database must control important operations.
