@@ -1,4 +1,3 @@
-
 # TicketHub - Event Ticketing System Design
 
 ## 1. Context
